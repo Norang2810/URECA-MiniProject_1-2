@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MiniProject_1_servlet_jsp_ajax">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="java-output-path" value="/MiniProject_1_servlet_jsp_ajax/build/classes"/>
+        <property name="context-root" value="mini_ajax"/>
+    </wb-module>
+</project-modules>
